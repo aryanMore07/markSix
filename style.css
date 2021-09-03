@@ -1,0 +1,63 @@
+body {
+  justify-content: center;
+  text-align: center;
+  background-image: url("27835.png");
+  font-size: 25px;
+  font-family: "Boogaloo", cursive;
+}
+
+nav h1 {
+  text-align: center;
+  border: 1px yellow;
+  border-radius: 45px;
+  padding: 25px;
+  margin: 25px;
+  background-color: rgb(34 35 16 / 65%);
+}
+
+h1 {
+  font-size: 2.5rem;
+  line-height: 1.35;
+  color: yellow;
+}
+
+textarea {
+  margin: auto;
+  width: 522px;
+  height: 173px;
+  padding: 25px;
+  display: block;
+  width: 50%;
+  border-radius: 15px;
+  font-size: 25px;
+}
+
+#btn-translate {
+  margin: 25px;
+  display: inline-block;
+  font-family: inherit;
+  border-radius: 20px;
+  padding: 1.25rem 4.5rem;
+  cursor: pointer;
+  background: yellow;
+  border: #ffff1d;
+  font-size: 25px;
+}
+/* 
+#inputText {
+  text-align: center; 
+}
+*/
+
+#outputText {
+  padding: 25px;
+  margin-top: 2rem;
+  height: 90px;
+  border: 2px dotted black;
+  width: 50%;
+  margin: auto;
+  text-align: justify;
+  background: #ffff1d;
+  border-radius: 15px;
+  font-size: 25px;
+}
